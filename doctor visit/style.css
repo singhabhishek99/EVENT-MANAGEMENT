@@ -1,0 +1,32 @@
+.header{
+    background-image:url("one.jpg");
+    padding-top: 150px;
+    padding-bottom: 550px;
+    background-position: top bottom;
+    background-size: auto;
+    background-repeat: no-repeat;
+    font-weight: bolder;
+    text-align:center;
+    
+
+}
+.golu{
+    padding-bottom: 40px;
+    padding-top: 180px;
+
+}
+.container{
+    text-align: center;
+    color: blue;
+
+}
+.font{
+    color: rgb(143, 138, 138);
+}
+.abhi{
+    text-align: left;
+padding-top: 200px;
+}
+#ss{
+    background-color: green;
+}
